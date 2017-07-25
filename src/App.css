@@ -1,1 +1,6 @@
-
+.img-brand {
+  height: 50px;
+  width: 65px;
+  max-height: inherit;
+  max-width: inherit;
+}
